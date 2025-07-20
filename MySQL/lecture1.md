@@ -26,3 +26,8 @@ DESC <table name>;
 
 
 INSERT INTO <table name> (col1, col2, ....) VALUES (<value 1>, <value 2>, ...)
+//TO insert values into a table
+ 
+ SELECT  <column name> FROM <table name>;
+ //to get data from a table
+ //use * in place of column name to get all the columns.
